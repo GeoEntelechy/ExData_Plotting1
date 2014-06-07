@@ -1,7 +1,5 @@
 #plot4 in EDA course, project 1
 
-setwd("/Users/yakich/vrygit/eda")
-
 library(data.table)
 
 #Prepare the directory structure, if not already created
